@@ -1,0 +1,13 @@
+1> pwd- print working directory
+2> ls- list files
+3> cd- change directory
+4> mkdir- make directory
+5> cd ..- goes back to the previous directory
+6> cp file1 file2- copy a file
+7> mv file1 file2- move a file
+8> rm- remove file
+9> rmdir- remove directory
+10> rm -r folder_name- to delete non empty folders
+11> vi file.txt- to create file and "i" for insert mode, after that "esc" -> "shift + :" -> "wq".
+12> man any_cmd- manual for any command
+13> clear- for clearing the screen
